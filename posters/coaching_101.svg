@@ -277,9 +277,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.5019781"
-     inkscape:cx="1199.4551"
-     inkscape:cy="1467.2597"
+     inkscape:zoom="0.75098867"
+     inkscape:cx="830.92888"
+     inkscape:cy="494.46839"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -517,8 +517,8 @@
          y="-147.34737"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Gotham;-inkscape-font-specification:'Gotham Light';fill:#ff0066;fill-opacity:1;stroke-width:0.26373628"
          id="tspan8608">has no knowledge but <tspan
-   style="font-weight:bold;fill:#ff0066;fill-opacity:1;stroke-width:0.26373628"
-   id="tspan8610">infinite intelligence.</tspan></tspan></text>
+   style="font-weight:normal;fill:#ff0066;fill-opacity:1;stroke-width:0.26373628"
+   id="tspan8610">infinite intelligence</tspan>.</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -542,7 +542,11 @@
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Gotham;-inkscape-font-specification:'Gotham Light';fill:#ff0066;fill-opacity:1;stroke-width:0.291291"
          id="tspan8608-5">Do not take over the <tspan
    style="font-weight:bold;stroke-width:0.291291"
-   id="tspan8655">keyboard! </tspan></tspan><tspan
+   id="tspan8655"><tspan
+   style="font-weight:normal"
+   id="tspan7539">keyboard</tspan><tspan
+   id="tspan7553"
+   style="-inkscape-font-specification:'Gotham Light';font-family:Gotham;font-weight:300;font-style:normal;font-stretch:normal;font-variant:normal">!</tspan> </tspan></tspan><tspan
          sodipodi:role="line"
          x="64.349113"
          y="-85.834969"
@@ -819,15 +823,15 @@
          x="126.77507"
          sodipodi:role="line"
          id="tspan8969">Take it slow, it's about <tspan
-   style="font-weight:bold;stroke-width:0.30968675"
+   style="font-weight:normal;stroke-width:0.30968675"
    id="tspan9562">learning</tspan>.</tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Gotham;-inkscape-font-specification:'Gotham Light';fill:#ff0066;fill-opacity:1;stroke-width:0.30968675"
          y="-24.434729"
          x="126.77507"
          sodipodi:role="line"
          id="tspan8971">Allow for time between <tspan
-   style="font-weight:bold;stroke-width:0.30968675"
-   id="tspan9564">questions.</tspan></tspan><tspan
+   style="font-weight:normal;stroke-width:0.30968675"
+   id="tspan9564">questions</tspan>.</tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Gotham;-inkscape-font-specification:'Gotham Light';fill:#ff0066;fill-opacity:1;stroke-width:0.30968675"
          y="-8.9503908"
          x="126.77507"
@@ -1093,14 +1097,14 @@
          y="29.193285"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Gotham;-inkscape-font-specification:'Gotham Light';fill:#ff0066;fill-opacity:1;stroke-width:0.23057725"
          id="tspan9730">Let students <tspan
-   style="font-weight:bold;stroke-width:0.23057725"
+   style="font-weight:normal;stroke-width:0.23057725"
    id="tspan9772">try answering</tspan> a questions first. </tspan><tspan
          sodipodi:role="line"
          x="65.755127"
          y="41.093231"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Gotham;-inkscape-font-specification:'Gotham Light';fill:#ff0066;fill-opacity:1;stroke-width:0.23057725"
          id="tspan9768">Help with open questions. Encourage a <tspan
-   style="font-weight:bold;stroke-width:0.23057725"
+   style="font-weight:normal;stroke-width:0.23057725"
    id="tspan9770">discussion</tspan>.</tspan><tspan
          id="tspan9712"
          sodipodi:role="line"
@@ -1118,7 +1122,7 @@
          x="131.00452"
          sodipodi:role="line"
          id="tspan9782">Work <tspan
-   style="font-weight:bold;stroke-width:0.2351936"
+   style="font-weight:normal;stroke-width:0.2351936"
    id="tspan9801">collaboratively</tspan> with your student</tspan></text>
     <g
        id="g10139"
@@ -1245,9 +1249,9 @@
          x="63.070892"
          sodipodi:role="line"
          id="tspan10158">Be <tspan
-   style="font-weight:bold;stroke-width:0.22563219"
+   style="font-weight:normal;stroke-width:0.22563219"
    id="tspan10166">supportive</tspan>, but let your student <tspan
-   style="font-weight:bold;stroke-width:0.22563219"
+   style="font-weight:normal;stroke-width:0.22563219"
    id="tspan10168">explore</tspan>.</tspan></text>
     <g
        id="g10297"
@@ -1374,7 +1378,11 @@
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Gotham;-inkscape-font-specification:'Gotham Light';fill:#ff0066;fill-opacity:1;stroke-width:0.23662552"
          id="tspan10324"><tspan
    style="font-weight:bold;stroke-width:0.23662552"
-   id="tspan10328">Drawing and explaining </tspan>is really helpful.</tspan><tspan
+   id="tspan10328"><tspan
+   style="font-weight:normal"
+   id="tspan7569">Drawing <tspan
+   style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Gotham;-inkscape-font-specification:'Gotham Light'"
+   id="tspan7571">and</tspan> visualising</tspan> </tspan>is really helpful.</tspan><tspan
          sodipodi:role="line"
          x="135.83372"
          y="246.52501"
