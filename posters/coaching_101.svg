@@ -279,7 +279,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.75098867"
      inkscape:cx="830.92888"
-     inkscape:cy="1772.7833"
+     inkscape:cy="1133.6258"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -475,57 +475,21 @@
        id="path939"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccc" />
-    <g
-       aria-label="COACHING 101"
-       transform="matrix(0.26458333,0,0,0.26458333,-62.867893,-314.08439)"
-       style="font-style:normal;font-weight:normal;font-size:96px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#4bafff;fill-opacity:1;stroke:none"
-       id="flowRoot8576">
-      <path
-         d="m 710.66723,417.52036 c 12.96,0 20.64,-4.608 27.552,-12 l -9.408,-9.504 c -5.28,4.8 -9.984,7.872 -17.664,7.872 -11.52,0 -19.488,-9.6 -19.488,-21.12 v -0.192 c 0,-11.52 8.16,-20.928 19.488,-20.928 6.72,0 12,2.88 17.184,7.584 l 9.408,-10.848 c -6.24,-6.144 -13.824,-10.368 -26.496,-10.368 -20.64,0 -35.04,15.648 -35.04,34.752 v 0.192 c 0,19.296 14.688,34.56 34.464,34.56 z"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Gotham;-inkscape-font-specification:Gotham;fill:#4bafff;fill-opacity:1"
-         id="path7573" />
-      <path
-         d="m 780.81923,417.52036 c 20.736,0 35.808,-15.648 35.808,-34.752 v -0.192 c 0,-19.104 -14.88,-34.56 -35.616,-34.56 -20.736,0 -35.808,15.648 -35.808,34.752 v 0.192 c 0,19.104 14.88,34.56 35.616,34.56 z m 0.192,-13.632 c -11.904,0 -20.352,-9.6 -20.352,-21.12 v -0.192 c 0,-11.52 8.256,-20.928 20.16,-20.928 11.904,0 20.352,9.6 20.352,21.12 v 0.192 c 0,11.52 -8.256,20.928 -20.16,20.928 z"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Gotham;-inkscape-font-specification:Gotham;fill:#4bafff;fill-opacity:1"
-         id="path7575" />
-      <path
-         d="m 819.66923,416.36836 h 15.072 l 6.144,-15.072 h 28.416 l 6.144,15.072 h 15.456 l -28.8,-67.68 h -13.632 z m 26.496,-28.128 8.928,-21.792 8.928,21.792 z"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Gotham;-inkscape-font-specification:Gotham;fill:#4bafff;fill-opacity:1"
-         id="path7577" />
-      <path
-         d="m 928.35473,417.52036 c 12.96,0 20.64,-4.608 27.552,-12 l -9.408,-9.504 c -5.28,4.8 -9.984,7.872 -17.664,7.872 -11.52,0 -19.488,-9.6 -19.488,-21.12 v -0.192 c 0,-11.52 8.16,-20.928 19.488,-20.928 6.72,0 12,2.88 17.184,7.584 l 9.408,-10.848 c -6.24,-6.144 -13.824,-10.368 -26.496,-10.368 -20.64,0 -35.04,15.648 -35.04,34.752 v 0.192 c 0,19.296 14.688,34.56 34.464,34.56 z"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Gotham;-inkscape-font-specification:Gotham;fill:#4bafff;fill-opacity:1"
-         id="path7579" />
-      <path
-         d="m 967.74173,416.36836 h 14.784 v -26.976 h 27.26397 v 26.976 h 14.784 v -67.2 h -14.784 v 26.592 h -27.26397 v -26.592 h -14.784 z"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Gotham;-inkscape-font-specification:Gotham;fill:#4bafff;fill-opacity:1"
-         id="path7581" />
-      <path
-         d="m 1041.3512,416.36836 h 14.784 v -67.2 h -14.784 z"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Gotham;-inkscape-font-specification:Gotham;fill:#4bafff;fill-opacity:1"
-         id="path7583" />
-      <path
-         d="m 1072.9292,416.36836 h 14.592 v -42.72 l 32.544,42.72 h 12.576 v -67.2 h -14.592 v 41.376 l -31.488,-41.376 h -13.632 z"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Gotham;-inkscape-font-specification:Gotham;fill:#4bafff;fill-opacity:1"
-         id="path7585" />
-      <path
-         d="m 1181.0312,417.52036 c 12.288,0 21.792,-4.8 28.704,-10.656 v -29.184 h -29.184 v 12.768 h 14.88 v 9.6 c -3.744,2.688 -8.544,4.032 -13.92,4.032 -11.904,0 -20.352,-9.024 -20.352,-21.312 v -0.192 c 0,-11.424 8.544,-20.928 19.296,-20.928 7.776,0 12.384,2.496 17.568,6.816 l 9.312,-11.232 c -7.008,-5.952 -14.304,-9.216 -26.4,-9.216 -20.352,0 -35.232,15.648 -35.232,34.752 v 0.192 c 0,19.872 14.4,34.56 35.328,34.56 z"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Gotham;-inkscape-font-specification:Gotham;fill:#4bafff;fill-opacity:1"
-         id="path7587" />
-      <path
-         d="m 1261.7657,416.36836 h 14.592 v -67.68 h -10.08 l -19.296,5.76 3.072,12.096 11.712,-2.88 z"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Gotham;-inkscape-font-specification:Gotham;fill:#4bafff;fill-opacity:1"
-         id="path7589" />
-      <path
-         d="m 1320.1217,417.52036 c 17.952,0 29.952,-15.264 29.952,-34.752 v -0.192 c 0,-19.488 -12,-34.56 -29.76,-34.56 -17.856,0 -29.952,15.264 -29.952,34.752 v 0.192 c 0,19.488 11.808,34.56 29.76,34.56 z m 0.192,-13.344 c -8.928,0 -14.784,-9.12 -14.784,-21.408 v -0.192 c 0,-12.288 5.76,-21.216 14.592,-21.216 8.832,0 14.784,9.216 14.784,21.408 v 0.192 c 0,12.192 -5.664,21.216 -14.592,21.216 z"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Gotham;-inkscape-font-specification:Gotham;fill:#4bafff;fill-opacity:1"
-         id="path7591" />
-      <path
-         d="m 1371.8282,416.36836 h 14.592 v -67.68 h -10.08 l -19.296,5.76 3.072,12.096 11.712,-2.88 z"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Gotham;-inkscape-font-specification:Gotham;fill:#4bafff;fill-opacity:1"
-         id="path7593" />
-    </g>
-    <text
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot8576"
+       style="font-style:normal;font-weight:normal;font-size:96px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#4bafff;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,-62.867893,-314.08439)"><flowRegion
+         id="flowRegion8578"
+         style="fill:#4bafff;fill-opacity:1"><rect
+           id="rect8580"
+           width="846.88312"
+           height="189.08398"
+           x="671.11499"
+           y="327.56796"
+           style="fill:#4bafff;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara8582"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Gotham;-inkscape-font-specification:Gotham;fill:#4bafff;fill-opacity:1">COACHING 101</flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:75.79356384px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#00ffcc;fill-opacity:1;stroke:none;stroke-width:0.39475814;filter:url(#filter6361)"
        x="63.968376"
